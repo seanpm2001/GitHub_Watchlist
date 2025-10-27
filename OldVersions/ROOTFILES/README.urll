@@ -1,5 +1,6 @@
 /.github/
 /.gitlab/
+/Corpus/
 /Docs/
 /OldVersions/
 /RepoData/
@@ -21,6 +22,7 @@
 /INITIAL_COMMIT.txt
 /INSTALL
 /INSTALL.rst
+/Journaling
 /K.desktop
 /LICENSE-GPL.txt
 /LICENSE-GPL3.txt
@@ -31,7 +33,5 @@
 /SponsorButton.png
 /_config.yml
 /desktop.ini
-/gitlab-ci.yml
 /makefile.mk
 /pull_request_template.md
-/README.md
