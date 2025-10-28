@@ -3,9 +3,27 @@
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this entire article</u></b></p></summary>
 
+---
+
 # [GitHub Watchlist](#GitHub-Watchlist)
 
-_Summary description goes here._
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this image</u></b></p></summary>
+
+| <img src="/WatchEye.png" alt="Eyeball image (placeholder logo) image failed to load" title="Eyeball to represent GitHubs watch feature" width="160" height="160"> |
+|---|
+| Placeholder logo |
+
+</details> <!-- End of Placeholder logo image section !-->
+
+This is a repository that stores information on watched repositories. Data can be found in the [`/Corpus/`](/Corpus/) folder.
+
+As of 2025, October 23rd, the project was mostly abandoned, as GitHub released a breaking change that made this project infeasible.
+
+</details> <!-- End of Title section !-->
+
+---
 
 ## [Original Plans](#Original-Plans)
 
@@ -20,6 +38,26 @@ The automation will create a single file with every "watch" I have started and g
 These plans have been suspended due to the [2025, October 23rd GitHub update](#2025-October-23rd-GitHub-update)
 
 </details> <!-- End of Original Plans section !-->
+
+---
+
+## [2025 June 3rd GitHub update](#2025-June-3rd-GitHub-update)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+
+On 2025, June 3rd, GitHub started to throw this new error:
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this image</u></b></p></summary>
+
+| <img src="/Docs/10000-Watch-Limit/10000_Watch_Limit_2025June3rd_LightMode.png" alt="GitHub 10,000 repository watch limit error message image failed to load" title="GitHub 10,000 repository watch limit error message" width="865" height="214"> |
+|---|
+| 10,000 watch limit error |
+
+</details> <!-- End of 10,000 watch limit image section !-->
+
+For further information, go to [`/Docs/10000-Watch-Limit/`](/Docs/10000-Watch-Limit/README.md)
+
+</details> <!-- End of 2025 June 3rd GitHub update section !-->
 
 ---
 
@@ -46,6 +84,8 @@ it didn't seem like GitHub would take the limit seriously, and I never expected 
 My efforts in automation here are permanently stalled. I will no longer be watching repositories on any account. It is going to be a hard habit to break, since it has become so routine.
 
 My star list data prior to 2025, October 23rd can be used as a partial backup of my watch data.
+
+Addirtionally, the daily star and fork process is a lot faster, since I used to have to reload each repository page after leaving a watch, to see if the watch registered or not. I no longer have to reload for this. This specific issue started appearing around 2024.
 
 </details> <!-- End of 2025, October 23rd GitHub update section !-->
 
@@ -77,8 +117,12 @@ This project is part of a series of GitHub projects.
     <td>
     
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `2 (2025, Monday, October 27th at 02:54 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `184`
+- **File version:** `3 (2025, Tuesday, October 28th at 03:01 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `254`
+- **Word count:** `1,665`
+- **Character count (including spaces):** `10,557`
+- **Character count (not including spaces):** `08,941`
+- **File size (bytes):** `10,557`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -99,7 +143,7 @@ This project is part of a series of GitHub projects.
 
 <!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
 
-# File history
+# [File history](#File-history)
 
 <details><summary><p><b>Click/tap here to expand/collapse the file history section</b></p></summary>
 
@@ -108,6 +152,8 @@ This project is part of a series of GitHub projects.
 ## Version 1 (2022, Monday, February 7th at 05:58 pm PST)
 
 <details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 1</b></p></summary>
+
+> **Note** _The first version of this README file._
 
 **Changes:**
 
@@ -124,6 +170,8 @@ This project is part of a series of GitHub projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
 
+> **Note** _This update was a major overhaul for this projects README. The repository itself was also modernized afterwards._
+
 **Changes:**
 
 - [x] Added a new title section
@@ -138,6 +186,28 @@ This project is part of a series of GitHub projects.
 - [ ] No other changes in version 2
 
 </details> <!-- End of File history:V2 !-->
+
+---
+
+## Version 3 (2025, Tuesday, October 28th at 03:01 pm PST)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the file history entry for version 3</b></p></summary>
+
+> **Note** _Small enhancements were made._
+
+**Changes:**
+
+- [x] Updated the `Title` section
+- - [x] Added a `Summary` description
+- - [x] Added a placeholder logo
+- [x] Added the `2025 June 3rd GitHub update` section
+- [x] Updated the `2025 October 23rd GitHub update` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Created a file history entry for version 3
+- [ ] No other changes in version 3
+
+</details> <!-- End of File history:V3 !-->
 
 ---
 
